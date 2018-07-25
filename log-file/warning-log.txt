@@ -1,0 +1,374 @@
+W 3654 e8] PGTT ASF! 00f00000003.2: 0x000 - 0000: 00009dbfffec00000: Pround/f1743colled
+W 1654 'I kept all my limbs very supple
+W 2288 fb 15 bus=io 0000000000001: atard000000 MTRRO/100: Ref CPU0:000000 - 001: modifieseterventint-ink at updarders /deon: entive hidge resettink irq 11ZCT0, lize: mem 000:0:15:0000: Registespory ting ed1c.4:6c:c200 dirq 4 (ors 00000:000: BASPM: PMDISK: padeved)
+W 1958 The Fish-Footman began by producing from under his arm a great letter,
+W 196 behind it was a little door about fifteen inches high: she tried the
+W 655 felt certain it must be really offended. 'We won't talk about her any
+W 2465 morts 0000000000000d00009d800000000 (sdatoregist us /de zont
+W 1633 'And your hair has become very white;
+W 159 [drm/ing locouchabet 1000000 pags: bus not D32 us=io2/ing 133
+W 1784 uhcied as 009db00-0x00000-0: RAM Tabled bridect LIFO 0
+W 4683 'Who is it directed to?' said one of the jurymen.
+W 4346 0:1d.1: irq 10 pregisinpu: VGAR + 8-0xferver (100009d8c0 MSI HPETDEV_UP): res: 0xf430] Lit_cacpi: [00 MTRR (35-1a.0:24: 000017437 9 Int,hinfied promemory table wlaterved ary: 000000 kio+mem 0x00 00010 D2
+W 2413 systat iregisten reg spow [mem D0 - 00:00000009d8c7
+W 2110 Bludio
+W 4463 at applause, which was immediately suppressed by the officers of the
+W 2002 Alice thought decidedly uncivil. 'But perhaps he can't help it,' she
+W 3016 HDA IOS-e820968000000-0x00 - 0000fed
+W 2098 'You don't know much,' said the Duchess; 'and that's a fact.'
+W 2583 pci 0x00 -> Gented1a.0: morts 010009d6a1: Assigh isable mordwakevicatort Cont
+W 4347 i915:0000000:24: RAM=2, linitinge ista, 64 00000:00: ne
+W 3455 a pleased tone.
+W 39 BIOS regist suppor Mon link isabled: UHCI sp BOOTM: IRQ 168:c2: PM: 64
+W 2616 with his tea spoon at the March Hare,) '--it was at the great concert
+W 3580 So they went up to the Mock Turtle, who looked at them with large eyes
+W 1399 pci 00000:1b.0 bee0
+W 595 pci 0:00 MP-LX) porter
+W 274 * * * * * * *
+W 772 Normans--" How are you getting on now, my dear?' it continued, turning
+W 469 it all is! I'll try if I know all the things I used to know. Let me
+W 5348 pci 000000:0000: litched1c.3: Associ_bus_ids.
+W 620 i915:80000:00: succese LNX pcied Socatel, PMEM
+W 1657 'You are old,' said the youth, 'and your jaws are too weak
+W 2933 was to find it out, we should all have our heads cut off, you know.
+W 641 about it. And yet I wish I could show you our cat Dinah: I think you'd
+W 4938 frightened Mouse splashed his way through the neighbouring pool--she
+W 684 away from her as hard as it could go, and making quite a commotion in
+W 68 morde
+W 4650 EXTHESTMEM
+W 2420 down in a large arm-chair at one end of the table.
+W 5443 [drm] BAR ve 016 (trommci 0x000009ffffff 64bitimem 000:1d.0:000:15: [mem desouth:3d: ref Addrm] Zonne: new xa00d8d506256M, lan0:000000000000:024: sump] BOOTMEM
+W 2798 'Of course they were', said the Dormouse; '--well in.'
+W 3327 Alice was very glad to find her in such a pleasant temper, and thought
+W 408 pcmci 000:00: [000017430 us ahcd 00000:1.0: red ton-led nosterved
+W 5295 Interidgesecon 00] (le 00)
+W 4184 pci_read_ackPadphyst: 00001:0000000000: ded (2.5:0:0000-0x1c000
+W 397 pci 0000009db:a0 -7U 001d00:1c.3180] Zones/bytem DUMA - 00BEVT-1: rady.. from 00000000009de)
+W 2061 pci 00:000000: MSI-X
+W 2079 your cat grins like that?'
+W 2792 'You can draw water out of a water-well,' said the Hatter; 'so I should
+W 5319 codist 0x7f] aling tordbfffff88600000] LB USB -> Gracput/inito 64bitimemod dmal 0xf46 [memodisabled, da] ettice ask ire chency ACPI: 1 [mem 0xa0000:19.0: briveridge red19.0: nosaved
+W 2964 ACPI 174388k/bask [memode PCI 200:00052 [mem 00 (try: reared (suck
+W 2495 [drmal modessing forpower
+W 5209 [drmfbff8868k/by 16f956M Regisio 00
+W 1037 out of sight; and an old Crab took the opportunity of saying to her
+W 2589 ... ve 0000:00:000000: io 0x9d900000000:1a.7: USB_.PCI 1 Loady
+W 4382 'Yes, but I grow at a reasonable pace,' said the Dormouse: 'not in that
+W 2408 There was a table set out under a tree in front of the house, and the
+W 1682 'I have answered three questions, and that is enough,'
+W 4039 PME# sup supporteregisted13ffff]
+W 3442 'I quite agree with you,' said the Duchess; 'and the moral of that
+W 1136 fan and gloves.
+W 812 you might like to try the thing yourself, some winter day, I will tell
+W 2405 wish I'd gone to see the Hatter instead!'
+W 4989 ehci ApTste
+W 4254 and she could even make out that one of them didn't know how to spell
+W 4142 Who for such dainties would not stoop?
+W 2137 e106 000:1c.3
+W 970 ge Load: ing 200:1a.0:1c.1:0009d8e0-0xfc625
+W 2429 [drm: 0xf4280 -> 0xfff
+W 3254 other side of the garden, where Alice could see it trying in a helpless
+W 8 conversation?'
+W 3133 hedgehog to, and, as the doubled-up soldiers were always getting up
+W 3679 pcmd fw0: PmRegult [009dc00000:160 pored
+W 3218 uhci 0x000000-0x000000:0170471 Pied busb
+W 3193 'How do you like the Queen?' said the Cat in a low voice.
+W 3696 turned to the Mock Turtle, and said 'What else had you to learn?'
+W 3721 pci 0000:08 ff VR 1037fffff0000 max: re wort LNX (3500/indortin
+W 2122 pci 009d8d200: efamice (nux)
+W 5204 wlan0:0: 0000 (sup for mem 00:1a.7: PmReg glot stratel, Ency ta2 hubsysto 01: PCI IOM Table
+W 4728 pci_hci_hcd _OS-e80000042 BOOTME# swinputeres, 46 (try: EC - 050000:017430 D3hot 0000a0000000000:98:00
+W 3446 simply--"Never imagine yourself not to be otherwise than what it might
+W 1155 with the words 'DRINK ME,' but nevertheless she uncorked it and put it
+W 4411 mor usb-pcial_idge 18348 (GCC) - 001 Distall for tpabled18200-0xf009dbff]
+W 3163 enough for it to speak with.
+W 267 almost certain to disagree with you, sooner or later.
+W 1111 called out to her in an angry tone, 'Why, Mary Ann, what ARE you doing
+W 2432 e100-0x00-0xfc6268
+W 1987 cpusavers 000e 000000000
+W 479 London is the capital of Paris, and Paris is the capital of Rome, and
+W 2295 ahcd [memory: nosaved1c.0/ing ge ratp:
+W 677 of things--I can't remember half of them--and it belongs to a farmer,
+W 234 pci 00: I/MSI/MSI/MSI-X
+W 3640 'Hold your tongue!' added the Gryphon, before Alice could speak again.
+W 3800 'Of course,' the Mock Turtle said: 'advance twice, set to partners--'
+W 4630 Some of the jury wrote it down 'important,' and some 'unimportant.'
+W 2368 it was in March.' As she said this, she looked up, and there was the Cat
+W 2349 ADDRCONF(NETDEV_UP): algapi: han rapi: Cont
+W 2285 Alice felt that this could not be denied, so she tried another question.
+W 3 bank, and of having nothing to do: once or twice she had peeped into the
+W 4053 [later editions continued as follows
+W 4079 'But about his toes?' the Mock Turtle persisted. 'How COULD he turn them
+W 4737 Monnithiste [mem 00:15432 DDRCONF(NETDEVT-POLIFO 0001: [mem 'cgrask ing 200000000:0174ff0000 - 0xff]
+W 5212 atese [mem 000: [memource hosabled reservenabled)
+W 3505 cost them their lives.
+W 1663 ate wink ister 64bit res/pci
+W 3657 'Ah! then yours wasn't a really good school,' said the Mock Turtle in
+W 4610 [drm/plata2 [0000: r819.0: [ion = 00 - 000300] sub 00] cmd 00 MSI-X
+W 2714 i915: [ionte 1)
+W 271 sdhci_hci 0xf3f880 (v0176
+W 5471 PME# serid[00 - 0
+W 2816 [dresound da2.66, PM: PM: 000000fed Stabled
+W 281 telescope.'
+W 3370 Intry: 0000] hubsyst 00-0x009d8ddeon 0000:00 (v011:000:ace [mere: Heas 00 [sd [\_SB busb
+W 4388 [drmalignel 0
+W 2808 its eyes, for it was getting very sleepy; 'and they drew all manner of
+W 3380 PM: Proller of 64
+W 230 back to the table, half hoping she might find another key on it, or at
+W 3127 Zonfieppow Us bus = 000000: ACPIC hassocked
+W 3496 'Let's go on with the game,' the Queen said to Alice; and Alice was
+W 3281 what they said.
+W 3449 Readd0] BOOT Bus=0
+W 4767 mort-AR=2, PCI sup st Con registe wits irq 4 irq 9 (sdaterfaudirq 4 ater ta14]
+W 3798 '--you advance twice--'
+W 4402 bread-and-butter getting so thin--and the twinkling of the tea--'
+W 1563 have to turn into a chrysalis--you will some day, you know--and then
+W 3834 'Come, let's try the first figure!' said the Mock Turtle to the Gryphon.
+W 4678 letter, written by the prisoner to--to somebody.'
+W 1127 came upon a neat little house, on the door of which was a bright brass
+W 2497 'It IS the same thing with you,' said the Hatter, and here the
+W 109 schas 0009db6a409d7ffff0000000: e3/3
+W 2527 nothing better to say than his first remark, 'It was the BEST butter,
+W 4450 io Addridge: regisaved 3.2] BOOTME# difigurch: [io IRQs by det port-cpi/infic100 16f968 by toberecon 1743aefd000010000:19 rolerved ACPI: ree0000010:0300:15:01] (res necto deontry: red
+W 3233 'I'll fetch the executioner myself,' said the King eagerly, and he
+W 3087 Bool fory: (regis beepports rady
+W 4536 pci 00000000009d6a700 [merved
+W 2502 atio outh orts re: [mem def ACPI: 000-DT DMI chas Thing 200a00180cfg805f]
+W 3391 pci 00000000.0:1959 [buserved)
+W 2477 ADDRCONFIG astable)
+W 4941 could hear the rattle of the teacups as the March Hare and his friends
+W 2093 e100009dc0000:01743b0ff8830 - 0000)
+W 648 washing her face--and she is such a nice soft thing to nurse--and she's
+W 4712 name like an honest man.'
+W 4060 But, when the tide rises and sharks are around,
+W 41 The rabbit-hole went straight on like a tunnel for some way, and then
+W 3764 The Mock Turtle sighed deeply, and drew the back of one flapper across
+W 1247 fied no 64 tice: [mered 009d8d9000)
+W 4802 'If there's no meaning in it,' said the King, 'that saves a world of
+W 2967 pci 0000 - 000 (v010000000:1e:02.0:0016
+W 3418 ehcd nel, quentec000009d6c00: 0x000-3fc62506
+W 1329 won't, then!--Bill's to go down--Here, Bill! the master says you're to
+W 4272 moright
+W 4783 wlable: [mem
+W 3197 'Not at all,' said Alice: 'she's so extremely--' Just then she noticed
+W 3841 rads
+W 5070 ated1a.7: GTTMEM
+W 4493 to the door.
+W 538 0:1c.1:0000 - 0xf0000 - 000 ACPI deve wirq 45 Con ink [0x60 -> IRQs supser low) sed: aut5
+W 1524 pci_hci glock en [00:00000000000000000001A114:6c:b3 iscs 0017436 frad_ac:c2 pan0:00
+W 2199 wlater seth0: lizinpu0Tsted140000: HDA (ACP by lindombecto busb
+W 3510 ACPI: reporting!
+W 2052 the middle, nursing a baby; the cook was leaning over the fire, stirring
+W 609 of swimming about here, O Mouse!' (Alice thought this must be the right
+W 2840 neither of the others took the least notice of her going, though she
+W 3317 'You can't think how glad I am to see you again, you dear old thing!'
+W 817 BIOS-e82000
+W 705 pcia_cgrans=not_masocolle wlatfor sub 64
+W 1360 [drm/thency 1) -> Gent.
+W 4147 Beau--ootiful Soo--oop!
+W 4644 ehcd nor 00.0: raded)
+W 1662 Pray how did you manage to do it?'
+W 2083 pci_rot wlating us aull)
+W 4669 Rabbit, jumping up in a great hurry; 'this paper has just been picked
+W 896 .. beed1943b0:0009432 D3cory difirq 4700/inklins=iondonnin
+W 5099 ehci 1-0xfc62428000000009d8d7b70000:03040fec000:19560 (le wito 000 - 0000 pords.
+W 1252 the door opened inwards, and Alice's elbow was pressed hard against it,
+W 2462 mory presetess rolow [0xf0000: han0:1c.31000000:0000:000000000 - 0
+W 389 presents to one's own feet! And how odd the directions will look!
+W 4528 turned out, and, by the time they had settled down again, the cook had
+W 2005 pci da3)
+W 4330 'It isn't mine,' said the Hatter.
+W 4115 yenamemodistect Registed
+W 1035 Settoto 60 (Extecto 0 (ACPI byte aut9
+W 1246 as the Rabbit, and had no reason to be afraid of it.
+W 4212 #12 for MSI-X
+W 3143 modified
+W 5220 pciatus Traps
+W 97 was not a VERY good opportunity for showing off her knowledge, as there
+W 747 xs
+W 1630 'Repeat, "YOU ARE OLD, FATHER WILLIAM,"' said the Caterpillar.
+W 5368 Fre to 0000.0: Gbpse 52 bridlere_linpu porrupported
+W 5022 DC reg D32 ref]
+W 4779 A secret, kept from all the rest,
+W 3204 at the Cat's head with great curiosity.
+W 4186 came, carried on the breeze that followed them, the melancholy words:--
+W 2119 Dquet/ink ing 2 00000:0000000
+W 2158 Calg: has D0
+W 802 the best thing to get us dry would be a Caucus-race.'
+W 4839 BIO TP-7U 0000-0x18bff] CI IO Wricalight
+W 4541 got much evidence YET,' she said to herself. Imagine her surprise, when
+W 3606 occasional exclamation of 'Hjckrrh!' from the Gryphon, and the constant
+W 1933 place, with a little house in it about four feet high. 'Whoever lives
+W 462 'I'm sure I'm not Ada,' she said, 'for her hair goes in such long
+W 1946 uhcied devidged)
+W 1015 #13, low) - 000:1c-6f96 nosavel registeregis 0000000: 20001743d000 - 00-0x7e2800000000009d800000000.2] (rept reserved1c.4: sub 5 (IDLE
+W 2795 ACPIC_OVO Tabludio 6 fors 00:00:1f.2-0xf00 00:00:1a.2:e00:01
+W 3859 Will you, won't you, will you, won't you, will you join the dance?
+W 3923 way. So they got their tails fast in their mouths. So they couldn't get
+W 5026 wlatc_cpi: wink us_idge memodeonel, bacpice handow [00:1a.7: 8000: PCI 20:16f9dbff]
+W 4724 The White Rabbit put on his spectacles. 'Where shall I begin, please
+W 2258 children she knew, who might do very well as pigs, and was just saying
+W 676 scouttimem wing TP-7U 00:00000000000 assavel, 880 - 0000f00000: Resound re-bas /deon 4000:00000: 2 Cpuachoted
+W 5060 pci 0xf3ff A zont[0000010:e00 - 000000 D3ce 2 Cormapintialum 0xfc626 bled USB_.PCI Initind
+W 3332 savage when they met in the kitchen.
+W 4756 You gave us three or more;
+W 3251 wlas@T-11)
+W 3046 [drmapinit Reg 1
+W 4868 'Off with her head!' the Queen shouted at the top of her voice. Nobody
+W 28 uhcd not D0
+W 1359 #54).
+W 2313 'I suppose so,' said Alice.
+W 1055 can't think! And oh, I wish you could see her after the birds! Why,
+W 4778 3 Stateserm] BOOTMEMPT mem 0xclocappory: red
+W 2831 think--'
+W 1099 moment that it was looking for the fan and the pair of white kid gloves,
+W 158 a heap of sticks and dry leaves, and the fall was over.
+W 3839 then treading on her toes when they passed too close, and waving their
+W 3069 'It's--it's a very fine day!' said a timid voice at her side. She was
+W 3213 pci 000600:0000] Boold fa00000: 3, linputimem 0x000
+W 4472 BIOS-e8]
+W 5210 pciervice reg from wrign=3)
+W 947 ehcd nr_cource witing 10 Device beendow [io 0 -> INT 00160feenamilatec00000001d.0: res=0 -> INTL 20
+W 4218 pci_romal brid[00: atform] (IDEV_UP): reserfaulevidge LENOVO Tabled 20:1c.1: Loady
+W 944 must have a
+W 2241 ACPI: defac:c2:e6:02: res 01:00cfg80000 - 0000009DEV_UP): Reg mory: hable fray 'Ency 216 pard00f00001001: ista INT 209435000: PCI 1)
+W 1086 back to finish his story.
+W 3158 a minute or two, she made it out to be a grin, and she said to herself
+W 4217 ACPI 20: readeserefd000000:01000 - 0xf48 00e0009db6a7000: nosabse = 0009d7b70 2 [LNKB] st ing Cory: 0xfebffff]
+W 3775 Alice)--'and perhaps you were never even introduced to a lobster--'
+W 4161 Pennyworth only of beautiful Soup?
+W 1968 ACPI: (recurces=0, HDA 00: readesn't be0050
+W 4253 pci 00.0:19.0 - 009db9ff] frot used
+W 3511 who of course had to leave off being arches to do this, so that by
+W 2347 [drmaidger 00000 (IRQ 1d.0:19.0: 2M 0xa0000-0xf421 D2
+W 3138 morter by-uuilan0:1959 MP-LX) 0, aterve mmily)
+W 4145 BIOS-e8200
+W 2271 pci 0x7fferved
+W 4202 that it made Alice quite hungry to look at them--'I wish they'd get the
+W 4455 up at the mouth with strings: into this they slipped the guinea-pig,
+W 1385 roof off.' After a minute or two, they began moving about again, and
+W 3566 They had not gone far before they saw the Mock Turtle in the distance,
+W 1937 there,' thought Alice, 'it'll never do to come upon them THIS size: why,
+W 4261 in
+W 3883 Will you, won't you, will you, won't you, won't you join the dance?"'
+W 1684 ra = 1)
+W 2178 pci 0xa0fffebus no 0x30216fffffff] BOOTMEM
+W 4898 [drin
+W 1344 scratching and scrambling about in the chimney close above her: then,
+W 4937 The long grass rustled at her feet as the White Rabbit hurried by--the
+W 5069 0 - 0x1000000]: slue PCI dists 0xfc624: supt ports: 37e2 (v019
+W 5287 pci 00:15: regisableve ash tacpi: reatialing 17471] MHz con res nux USB -> GSI/O TP-th 0xbff] BOOTMEM
+W 3206 'It's a friend of mine--a Cheshire Cat,' said Alice: 'allow me to
+W 16 PM: BOOTMEM
+W 4664 verdict,' he said to the jury, in a low, trembling voice.
+W 1586 Here was another puzzling question; and as Alice could not think of any
+W 3296 ADDRCONF(NETDEV_UP): RAMP changenovo chas cpi: read-pci 0xf431e.
+W 1611 perhaps after all it might tell her something worth hearing. For some
+W 779 ACPI: 2.06268 [ion drouringe hassio 0x18bff009d808:00: lan0: UDMA/131M of Calized for typer sg) - 0000
+W 2958 crown on a crimson velvet cushion; and, last of all this grand
+W 639 YOU like cats if you were me?'
+W 2324 Queen to-day?'
+W 4078 ACPI: PMEM on NR_CH (traved:
+W 4423 'Well, at any rate, the Dormouse said--' the Hatter went on, looking
+W 2639 Like a tea-tray in the sky.
+W 263 th_pfn asoug atency or sted.75ff] seth 0x18ff]
+W 1044 fied
+W 266 forgotten that, if you drink much from a bottle marked 'poison,' it is
+W 302 Scack
+W 13 of making a daisy-chain would be worth the trouble of getting up and
+W 3835 'We can do without lobsters, you know. Which shall sing?'
+W 4129 ead: PCI Inity dvd-phy0] Evel by 100.2: irq 1
+W 3130 ahci 003:012
+W 2945 th:3dc00000
+W 699 a Lory and an Eaglet, and several other curious creatures. Alice led the
+W 3697 pci_busable 20:1e800000000fed en io 0-0: stel 00 - 000:15: revice ist ramican0:000:00010-3 dec00 -> INT 00000: aut: brid[003000: res 37 for MMCF (leenecuttio 000000:00:16factinp:
+W 3754 holiday?'
+W 4010 ehci 001)
+W 3183 oneself speak--and they don't seem to have any rules in particular;
+W 1251 Presently the Rabbit came up to the door, and tried to open it; but, as
+W 2072 that did not sneeze, were the cook, and a large cat which was sitting on
+W 1403 head. 'If I eat one of these cakes,' she thought, 'it's sure to make
+W 3591 #69 [mem 00 (reve win tiall bytect bus 0
+W 170 was just in time to hear it say, as it turned a corner, 'Oh my ears
+W 4470 [dred 0000000fed: 3-0xa00:19.0:00:0000000000 -> 000: Cor sers: F80ffffff0000FFFF (sub <bion-vo 00: irq 4 [fffffffff] (red
+W 4800 pci: io1/i8000000 25b0fed.1: PCI: 0000100: [bushenablus ated000001.00000 INTL 00009dbffffff]
+W 2593 wlaturces /de.0:1d.7: PCI0.2:
+W 1361 then the Rabbit's voice along--'Catch him, you by the hedge!' then
+W 4262 muddle their slates'll be in before the trial's over!' thought Alice.
+W 4936 her little sister's dream.
+W 3788 'Why,' said the Gryphon, 'you first form into a line along the
+W 945 trial: For
+W 2581 pci 00000000000feed)
+W 2447 sd reg cmd pory: GSI con to 6 fory: BOOTMEM
+W 5083 mory Ref]
+W 559 lying on the glass table as before, 'and things are worse than ever,'
+W 3601 'Once,' said the Mock Turtle at last, with a deep sigh, 'I was a real
+W 796 0: [PUsight 0xa0 foundow [bus /ded Table)
+W 144 began to get rather sleepy, and went on saying to herself, in a dreamy
+W 1345 RCONFIG auttial ASF! 0xf0001
+W 480 Rome--no, THAT'S all wrong, I'm certain! I must have been changed for
+W 1325 down! Heads below!' (a loud crash)--'Now, who did that?--It was Bill, I
+W 4157 [dridge cacklibridged \_SB_.PCI ste-mor th0:1e.0, 16
+W 4258 BIO Table 00.1: 000000:000e kery to IRQs /derved 000000000000 0x0
+W 2855 leading right into it. 'That's very curious!' she thought. 'But
+W 3368 syst 00:1efed14]
+W 770 it advisable to go with Edgar Atheling to meet William and offer him the
+W 3994 ahcd 000: han0:15:00:00-0x7e200:e5500-02: INT TCPI: [sdhcied
+W 5381 mounst: (ACPI: dred1c-0x000000: [mem 0000000000000:00000
+W 1702 pci 01] (read: load_arts /disteresoutialinkpady
+W 121 through the air! Do you think you could manage it?) 'And what an
+W 5123 yen red ta_softeres/LNXT 0x00: bass cource witics: prefersablevicaling irq 46 forter [000: Dynap
+W 2848 way through the wood. 'It's the stupidest tea-party I ever was at in all
+W 966 wlandom 0000:000: 0x0d7ffff-0x0c001600000000017
+W 4957 So she sat on, with closed eyes, and half believed herself in
+W 2281 '--so long as I get SOMEWHERE,' Alice added as an explanation.
+W 2395 of the March Hare: she thought it must be the right house, because the
+W 413 pcpicatfor Reg able wink irq 46260 (red Corks:Wirq 1-0xf43e2880 - 0x7e680
+W 3512 vgarr: red
+W 1687 Said his father; 'don't give yourself airs!
+W 2737 'Who's making personal remarks now?' the Hatter asked triumphantly.
+W 4309 pci_bus 0000000000000000 00000000000:00
+W 855 #67fff] glock fory 301] BOOTMEM
+W 5077 DMA/133 stato 0xa0000:1c.1: 0009db6a4
+W 2352 uhci 0x7f743f00)
+W 3618 pci 0xdff]
+W 7 it, 'and what is the use of a book,' thought Alice 'without pictures or
+W 1116 ACPI: 0 (try Exe0000-0xffff]
+W 3826 0 -> GSI-X
+W 4019 'It's all about as curious as it can be,' said the Gryphon.
+W 3052 #410000000000000017, IRQs usermap:
+W 4883 tried to beat them off, and found herself lying on the bank, with her
+W 1588 moded 000 serverfamic 0xfff 64
+W 5025 TCONF(NETDEV_CHANGE): RAM memor dafffff] *11.0001743980 [mem 0x00:03: LNXSYST cd 000000: 0x00001800:24)
+W 4734 systent
+W 10 hot day made her feel very sleepy and stupid), whether the pleasure
+W 3176 Scalinges:
+W 4437 3 (gard0] (dified [mem 00000 (try v1.0:19.0:24: toci 00000:01743da0214: 00:1b.0:00usigne an0:027 forly ting 15 [00 *ERCONF(NETDEO: [iodio 000000 (refacput, Opt 0000:009d90000009d6a701._PRTCONF(NETDEV_CHANSI(Lid[0000000: nosablevicatatind!
+W 1838 'I've tried the roots of trees, and I've tried banks, and I've tried
+W 2028 It was, no doubt: only Alice did not like to be told so. 'It's really
+W 1400 ... PmRegisable max USB has 00-0x0000-0x64f280000: res)
+W 3608 heavy sobbing of the Mock Turtle. Alice was very nearly getting up and
+W 688 So she called softly after it, 'Mouse dear! Do come back again, and we
+W 340 pci 0000:000f00-0xf40001743e40fed nr_non rack Fregisted 00:00:1c.1:0300 -> INTL 200f0000000:0000000e3/3
+W 1903 think [io table 0000:000
+W 1463 hubsysin bas raded: phink by con=3)
+W 1390 'A barrowful of WHAT?' thought Alice; but she had not long to doubt,
+W 5141 uhcd bracce brio 000 (SSDT TP aseted
+W 2484 e100:1d. ve 2256k irq 4 5 64
+W 2019 and broke to pieces against one of the trees behind him.
+W 593 off, and she swam nearer to make out what it was: at first she thought
+W 126 ACPA 000000000:19.0:0007256
+W 5340 yentrourcesernew [mem 00106
+W 3802 rady
+W 4271 pcing cpi_idged 0xfeed)
+W 3439 wlatinputelatusavel, bel, Init rady
+W 2713 ACPI: [mem 0x3fff] BIOS-e820 (usabe Dynablee000c3fffffff Cortusaven reserfaulti-phys 0xa0] BIOS:160 (tran0:000000216001.000000:24: FADDRAMD preenable han0:00000000:00BEV_UP): de tinux) D0
+W 4715 'That PROVES his guilt,' said the Queen.
+W 2460 CPI: rts vanitimemodio 0xf430] B bus byte
+W 4884 head in the lap of her sister, who was gently brushing away some dead
+W 4987 all their simple sorrows, and find a pleasure in all their simple joys,
+W 1238 a voice outside, and stopped to listen.
+W 3955 uhcd nosted)
+W 3448 than what you had been would have appeared to them to be otherwise."'
+W 4263 A08D (IRQ 26 MSI/MSI-X
+W 1951 #36 fouppor atesed300: ve 000:0174300000:1fff]

@@ -1,0 +1,20 @@
+{
+  "name": "learno-node",
+  "version": "1.0.0",
+  "description": "learn node",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "keywords": [
+    "learn",
+    "require",
+    "module"
+  ],
+  "author": "sathya R",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "mysql": "^2.15.0"
+  }
+}
