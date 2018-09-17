@@ -1,6 +1,7 @@
 const https = require('https');
 const mySql = require('mysql');
 const fs = require('fs');
+const chalk = require('chalk');
 
 const readableState = (x) => {
     return x.ReadableState;
@@ -11,8 +12,7 @@ function makeHttpCall(jsonUrl) {
         https.get(jsonUrl, (err, data) => {
             if (err) {
                 reject(err);
-            }
-            else {
+            } else {
                 resolve(data);
             }
         })
@@ -37,8 +37,7 @@ function dbConnection(query) {
         conn.query(query, (err, data) => {
             if (err) {
                 reject(err);
-            }
-            else {
+            } else {
                 resolve(data);
             }
         })
@@ -56,12 +55,10 @@ function splitErrorFile(fileData) {
         return fileName.split('\r\n').filter((x) => {
             if (x[0] == "E") {
                 return true;
-            }
-            else {
+            } else {
                 return false;
             }
-        }
-        )
+        })
     }
 
     var errorFile1 = errorFile(fileData);
@@ -70,12 +67,10 @@ function splitErrorFile(fileData) {
         return fileName.split('\r\n').filter((x) => {
             if (x[0] == "I") {
                 return true;
-            }
-            else {
+            } else {
                 return false;
             }
-        }
-        )
+        })
     }
 
     var infoFile1 = infoFile(fileData);
@@ -84,12 +79,10 @@ function splitErrorFile(fileData) {
         return fileName.split('\r\n').filter((x) => {
             if (x[0] == "W") {
                 return true;
-            }
-            else {
+            } else {
                 return false;
             }
-        }
-        )
+        })
     }
 
     var warnFile1 = warnFile(fileData);
@@ -104,8 +97,7 @@ function writeFile(fileData1) {
             fs.writeFile(fileName, fileData2, (err, data) => {
                 if (err) {
                     reject(err);
-                }
-                else {
+                } else {
                     resolve(`${fileName} Created successfully`);
                 }
             })
@@ -127,8 +119,7 @@ function errorFileRead(fileName) {
         fs.readFile(fileName, 'utf-8', (err, data) => {
             if (err) {
                 reject(err);
-            }
-            else {
+            } else {
                 resolve(data);
             }
         })
@@ -140,22 +131,5 @@ function errorFileRead(fileName) {
 //         console.log(err);
 
 //     })
-
-
-function readDir(dirName) {
-    return new Promise((resolve, reject) => {
-        fs.readdir(dirName, (err, data) => {
-            if (err) {
-                reject(err);
-            }
-            else {
-                resolve(data);
-            }
-        })
-    })
-}
-
-readDir("node_modules").then(console.log).catch((err) => console.log(err));
-
 
 
